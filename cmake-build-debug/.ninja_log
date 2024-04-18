@@ -1,6 +1,6 @@
 # ninja log v5
-3	1125	7351236894312916	CMakeFiles/AiZO_projekt1.dir/Sources/main.cpp.obj	3e60c4f703cc2ef4
-1126	1341	7351236896419878	AiZO_projekt1.exe	e04f9f4c1de6a215
+25	1497	7351397646216375	CMakeFiles/AiZO_projekt1.dir/Sources/main.cpp.obj	3e60c4f703cc2ef4
+1455	1885	7351302566895683	AiZO_projekt1.exe	e04f9f4c1de6a215
 44	494	7322292646825361	CMakeFiles/AiZO_projekt1.dir/Sources/SortAlgorithm.cpp.obj	12d84e433e806059
 3	444	7322292646745287	CMakeFiles/AiZO_projekt1.dir/Sources/Array.cpp.obj	1021de356241e6fb
 445	590	7322292648237020	CMakeFiles/AiZO_projekt1.dir/Sources/QuickSort.cpp.obj	e72a300a80c28719
@@ -9,7 +9,7 @@
 87	493	7322292646825361	CMakeFiles/AiZO_projekt1.dir/Sources/ShellSort.cpp.obj	c792e264edd8810a
 462	593	7322292648257025	CMakeFiles/AiZO_projekt1.dir/Sources/SortingTester.cpp.obj	a07860bf092e98ac
 4	717	7335346373593759	CMakeFiles/AiZO_projekt1.dir/Sources/Menu.cpp.obj	3ce2bcd02879c2ab
-3	1091	7351237390904837	CMakeFiles/AiZO_projekt1.dir/Sources/main.cpp.obj	3e60c4f703cc2ef4
-1092	1277	7351237392708247	AiZO_projekt1.exe	e04f9f4c1de6a215
-3	1455	7351302562629696	CMakeFiles/AiZO_projekt1.dir/Sources/main.cpp.obj	3e60c4f703cc2ef4
-1455	1885	7351302566895683	AiZO_projekt1.exe	e04f9f4c1de6a215
+4	1399	7351400039805240	CMakeFiles/AiZO_projekt1.dir/Sources/main.cpp.obj	3e60c4f703cc2ef4
+1400	1678	7351400042526037	AiZO_projekt1.exe	e04f9f4c1de6a215
+3	1228	7351401316325814	CMakeFiles/AiZO_projekt1.dir/Sources/main.cpp.obj	3e60c4f703cc2ef4
+1228	1447	7351401318468736	AiZO_projekt1.exe	e04f9f4c1de6a215

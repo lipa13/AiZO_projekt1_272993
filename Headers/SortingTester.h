@@ -82,7 +82,7 @@ public:
         delete[] dataCopy; // zwolnienie zaalokowanej pamięci dla kopii danych do wstępnego sortowania
 
         // TESTOWANIE SPRAWNOŚCI ALGORYTMU - 100 testów, za każdym razem dla nowej tablicy, wynik uśredniony
-        /*double totalTime = 0; // zmienna do przechowywania łącznego czasu sortowania
+        double totalTime = 0; // zmienna do przechowywania łącznego czasu sortowania
 
         for(int test=0; test<numberOfTests; test++)
         {
@@ -105,7 +105,6 @@ public:
         // wyświetlenie łącznego czasu sortowania
         cout << "\nSredni czas sortowania algorytmem " << algorithmName << " po wykonaniu " << numberOfTests <<" testow dla "
         << numberOfTests << " losowo wygenerowanych zestawow danych wynosi: " << totalTime/numberOfTests << " ms\n";
-        */
     }
 
     void setSortType(string st)
